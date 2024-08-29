@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Muskan Joke",
+  "version": "1.0",
+  "description": "Get a new Joke EveryDay",
+  "action":{
+    "default_popup":"popup.html",
+    "default_icon":"fav.png.png"
+
+  }
+ 
+}
+  
